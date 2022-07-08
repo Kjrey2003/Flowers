@@ -1,0 +1,11 @@
+html body{
+    padding: 0;
+    margin: 0;
+    display: grid;
+}
+
+VI{
+    display: flex;
+    flex-direction: row;
+    width: 200%;
+}
